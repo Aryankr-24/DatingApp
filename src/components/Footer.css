@@ -1,0 +1,37 @@
+.bottomButton{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 40px;
+}
+
+.bottomButton .replay{
+    padding: 3vw !important;
+    color: pink;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.bottomButton .close{
+    padding: 3vw !important;
+    color: rgb(245, 15, 53);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.bottomButton .star{
+    padding: 3vw !important;
+    color: rgb(220, 15, 243);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.bottomButton .favourite{
+    padding: 3vw !important;
+    color: rgb(144, 120, 253);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+.bottomButton .flash{
+    padding: 3vw !important;
+    color: rgb(119, 245, 105);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
